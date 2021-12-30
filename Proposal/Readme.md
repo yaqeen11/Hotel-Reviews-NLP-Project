@@ -11,7 +11,7 @@ The *goal* of this project is to build unsupervised Natural Language Processing 
 
 ## Data Description
 - We used a dataset of Hotel Reviews from Kaggle website [here](https://www.kaggle.com/jiashenliu/515k-hotel-reviews-data-in-europe)
-- The dataset consists of 17 Columns and 515,738 Rows.
+- The dataset consists of 17 columns and 515,738 rows.
 
 Below is a description of the features: 
 
