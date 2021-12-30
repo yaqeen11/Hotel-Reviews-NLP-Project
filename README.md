@@ -10,11 +10,11 @@ This project is done during SDAIA Academy bootcamp of Data Science and AI.
 
 # About the repository:
 - [Project Proposal](https://github.com/yaqeen11/Hotel-Reviews-NLP-Project/tree/main/Proposal)
-- [Project MVP]()
-- [Jupyter Notebooks]()
-- [Final Report]()
-- [Slides Presentation]()
-- [DATASET]()
+- [Project MVP](https://github.com/yaqeen11/Hotel-Reviews-NLP-Project/tree/main/MVP)
+- [Jupyter Notebooks](https://github.com/yaqeen11/Hotel-Reviews-NLP-Project/tree/main/code)
+- [Final Report](https://github.com/yaqeen11/Hotel-Reviews-NLP-Project/tree/main/Report)
+- [Slides Presentation](https://github.com/yaqeen11/Hotel-Reviews-NLP-Project/tree/main/presentation)
+- [DATASET](https://github.com/yaqeen11/Hotel-Reviews-NLP-Project/tree/main/Data)
 
 ### Contact Me
 For any questions please contact me <br/>
