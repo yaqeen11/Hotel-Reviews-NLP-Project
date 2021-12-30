@@ -45,4 +45,4 @@ Best Algorithm that made sensible results is CorEX with 3 topics for posative re
 
 
 ## Communication
-The project process and result has presented. To see the presentation slides click [here](https://github.com/halaalanzi/Hotel-Reviews-NLP-Project/blob/main/Presentation/Presentation.pdf).
+The project process and result has presented. To see the presentation slides click [here](https://github.com/yaqeen11/Hotel-Reviews-NLP-Project/blob/main/presentation/Presentation%20(1).pdf%20hotel.pdf).
